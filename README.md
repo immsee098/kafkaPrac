@@ -1,7 +1,7 @@
 # KAFKA PRAC
 
-###Producer
+### Producer
 
-###Consumer
+### Consumer
 
-###Configs
+### Configs
